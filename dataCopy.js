@@ -1,4 +1,4 @@
-export default clients = [
+module.exports = [
   {
     username: 'Vidal_Kiehn77',
     email: 'Harvey59@hotmail.com',
@@ -10,8 +10,8 @@ export default clients = [
     industry: 'Grocery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/182.jpg',
     password: '_8qvSOQw25ssuQw',
-    birthdate: 1991-04-10T02:22:55.401Z,
-    registeredAt: 2022-11-12T10:34:04.692Z,
+    birthdate: "1991-04-10T02:22:55.401Z",
+    registeredAt: "2022-11-12T10:34:04.692Z",
     stillClient: false
   },
   {
@@ -25,8 +25,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1124.jpg',
     password: '1AzIVbO8_HNP2NE',
-    birthdate: 1978-02-14T16:39:02.466Z,
-    registeredAt: 2023-01-07T17:10:53.874Z,
+    birthdate: "1978-02-14T16:39:02.466Z",
+    registeredAt: "2023-01-07T17:10:53.874Z",
     stillClient: false
   },
   {
@@ -40,8 +40,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/390.jpg',
     password: 'tv2OALKirylPE73',
-    birthdate: 1999-04-02T02:03:30.614Z,
-    registeredAt: 2022-06-06T05:52:17.932Z,
+    birthdate: "1999-04-02T02:03:30.614Z",
+    registeredAt: "2022-06-06T05:52:17.932Z",
     stillClient: false
   },
   {
@@ -55,8 +55,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/474.jpg',
     password: 'DkjLXCO8u2j31df',
-    birthdate: 1964-04-04T10:03:18.739Z,
-    registeredAt: 2022-11-23T07:24:41.112Z,
+    birthdate: "1964-04-04T10:03:18.739Z",
+    registeredAt: "2022-11-23T07:24:41.112Z",
     stillClient: true
   },
   {
@@ -70,8 +70,8 @@ export default clients = [
     industry: 'Jewelery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/237.jpg',
     password: 'I6vuJrqYWIAoc1d',
-    birthdate: 1990-04-02T12:11:55.939Z,
-    registeredAt: 2022-12-23T05:21:28.035Z,
+    birthdate: "1990-04-02T12:11:55.939Z",
+    registeredAt: "2022-12-23T05:21:28.035Z",
     stillClient: true
   },
   {
@@ -85,8 +85,8 @@ export default clients = [
     industry: 'Automotive',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/750.jpg',
     password: 'Waeo2LEWz9ubkHe',
-    birthdate: 1998-03-02T10:07:28.130Z,
-    registeredAt: 2022-05-23T11:50:18.979Z,
+    birthdate: "1998-03-02T10:07:28.130Z",
+    registeredAt: "2022-05-23T11:50:18.979Z",
     stillClient: true
   },
   {
@@ -100,8 +100,8 @@ export default clients = [
     industry: 'Home',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/238.jpg',
     password: 'oEYU7qDuRDGC_ce',
-    birthdate: 1997-04-22T23:44:26.134Z,
-    registeredAt: 2022-11-16T17:05:17.126Z,
+    birthdate: "1997-04-22T23:44:26.134Z",
+    registeredAt: "2022-11-16T17:05:17.126Z",
     stillClient: false
   },
   {
@@ -115,8 +115,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1242.jpg',
     password: 'pwzNMSIh4ll0UGk',
-    birthdate: 1988-07-20T13:32:42.205Z,
-    registeredAt: 2022-10-13T11:51:10.108Z,
+    birthdate: "1988-07-20T13:32:42.205Z",
+    registeredAt: "2022-10-13T11:51:10.108Z",
     stillClient: false
   },
   {
@@ -130,8 +130,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/143.jpg',
     password: 'C_vkQhXNQU8aQGH',
-    birthdate: 1948-07-26T04:09:56.245Z,
-    registeredAt: 2022-09-22T05:08:52.846Z,
+    birthdate: "1948-07-26T04:09:56.245Z",
+    registeredAt: "2022-09-22T05:08:52.846Z",
     stillClient: false
   },
   {
@@ -145,8 +145,8 @@ export default clients = [
     industry: 'Clothing',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/638.jpg',
     password: '3PXfgOOq96cz3sj',
-    birthdate: 2003-03-27T07:50:41.632Z,
-    registeredAt: 2022-03-04T21:49:19.219Z,
+    birthdate: "2003-03-27T07:50:41.632Z",
+    registeredAt: "2022-03-04T21:49:19.219Z",
     stillClient: true
   },
   {
@@ -160,8 +160,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/789.jpg',
     password: 'CKpjHLjTS8zFngz',
-    birthdate: 1996-01-05T08:26:29.974Z,
-    registeredAt: 2022-03-12T04:06:16.786Z,
+    birthdate: "1996-01-05T08:26:29.974Z",
+    registeredAt: "2022-03-12T04:06:16.786Z",
     stillClient: true
   },
   {
@@ -175,8 +175,8 @@ export default clients = [
     industry: 'Industrial',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/862.jpg',
     password: 'MCMDOGaXBD43qZL',
-    birthdate: 1969-08-12T12:09:27.849Z,
-    registeredAt: 2022-07-10T09:13:45.859Z,
+    birthdate: "1969-08-12T12:09:27.849Z",
+    registeredAt: "2022-07-10T09:13:45.859Z",
     stillClient: false
   },
   {
@@ -190,8 +190,8 @@ export default clients = [
     industry: 'Jewelery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/935.jpg',
     password: 'AKp16sUfvuVwnmg',
-    birthdate: 1981-09-15T06:56:14.047Z,
-    registeredAt: 2022-08-07T21:47:33.462Z,
+    birthdate: "1981-09-15T06:56:14.047Z",
+    registeredAt: "2022-08-07T21:47:33.462Z",
     stillClient: false
   },
   {
@@ -205,8 +205,8 @@ export default clients = [
     industry: 'Movies',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/291.jpg',
     password: '3adDgSn0oDgOaK0',
-    birthdate: 1952-01-08T21:46:18.224Z,
-    registeredAt: 2022-11-10T02:59:18.698Z,
+    birthdate: "1952-01-08T21:46:18.224Z",
+    registeredAt: "2022-11-10T02:59:18.698Z",
     stillClient: true
   },
   {
@@ -220,8 +220,8 @@ export default clients = [
     industry: 'Books',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1216.jpg',
     password: 'BEr8SYeaZLw__80',
-    birthdate: 1994-04-02T19:27:07.210Z,
-    registeredAt: 2022-04-18T09:58:02.129Z,
+    birthdate: "1994-04-02T19:27:07.210Z",
+    registeredAt: "2022-04-18T09:58:02.129Z",
     stillClient: false
   },
   {
@@ -235,8 +235,8 @@ export default clients = [
     industry: 'Movies',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/513.jpg',
     password: 'zG6c717wFqY21bR',
-    birthdate: 1971-01-11T12:04:05.401Z,
-    registeredAt: 2022-10-04T16:26:36.249Z,
+    birthdate: "1971-01-11T12:04:05.401Z",
+    registeredAt: "2022-10-04T16:26:36.249Z",
     stillClient: true
   },
   {
@@ -250,8 +250,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/582.jpg',
     password: 'QOwHnnUOjIt40WX',
-    birthdate: 1988-10-26T22:42:32.505Z,
-    registeredAt: 2022-09-30T08:26:05.417Z,
+    birthdate: "1988-10-26T22:42:32.505Z",
+    registeredAt: "2022-09-30T08:26:05.417Z",
     stillClient: false
   },
   {
@@ -265,8 +265,8 @@ export default clients = [
     industry: 'Books',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/928.jpg',
     password: 'jy2QqJe_GN6lY0f',
-    birthdate: 2001-09-19T01:05:54.225Z,
-    registeredAt: 2022-10-04T21:44:13.815Z,
+    birthdate: "2001-09-19T01:05:54.225Z",
+    registeredAt: "2022-10-04T21:44:13.815Z",
     stillClient: true
   },
   {
@@ -280,8 +280,8 @@ export default clients = [
     industry: 'Electronics',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1028.jpg',
     password: 'AoH6jgPVErAwvSh',
-    birthdate: 1955-12-28T17:35:18.574Z,
-    registeredAt: 2023-01-29T11:46:32.984Z,
+    birthdate: "1955-12-28T17:35:18.574Z",
+    registeredAt: "2023-01-29T11:46:32.984Z",
     stillClient: false
   },
   {
@@ -295,8 +295,8 @@ export default clients = [
     industry: 'Shoes',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/399.jpg',
     password: 'MyryTY9Za0fToD9',
-    birthdate: 1959-12-17T01:10:33.857Z,
-    registeredAt: 2022-09-06T07:11:23.722Z,
+    birthdate: "1959-12-17T01:10:33.857Z",
+    registeredAt: "2022-09-06T07:11:23.722Z",
     stillClient: true
   },
   {
@@ -310,8 +310,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/143.jpg',
     password: '6Rw2xoWVLVVZBgI',
-    birthdate: 1967-06-29T21:46:09.738Z,
-    registeredAt: 2022-04-25T19:01:26.634Z,
+    birthdate: "1967-06-29T21:46:09.738Z",
+    registeredAt: "2022-04-25T19:01:26.634Z",
     stillClient: true
   },
   {
@@ -325,8 +325,8 @@ export default clients = [
     industry: 'Toys',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/227.jpg',
     password: 'k1Ow7Alfmr7lTAK',
-    birthdate: 1993-08-17T05:13:12.721Z,
-    registeredAt: 2022-08-18T12:52:58.717Z,
+    birthdate: "1993-08-17T05:13:12.721Z",
+    registeredAt: "2022-08-18T12:52:58.717Z",
     stillClient: true
   },
   {
@@ -340,8 +340,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1007.jpg',
     password: 'P3RKpZSXMig82EN',
-    birthdate: 1943-10-14T06:08:19.790Z,
-    registeredAt: 2022-04-20T01:37:59.471Z,
+    birthdate: "1943-10-14T06:08:19.790Z",
+    registeredAt: "2022-04-20T01:37:59.471Z",
     stillClient: false
   },
   {
@@ -355,8 +355,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1203.jpg',
     password: 'BtIbx1X2q_PmSn4',
-    birthdate: 1951-03-18T20:12:15.043Z,
-    registeredAt: 2022-09-13T15:01:36.274Z,
+    birthdate: "1951-03-18T20:12:15.043Z",
+    registeredAt: "2022-09-13T15:01:36.274Z",
     stillClient: false
   },
   {
@@ -370,8 +370,8 @@ export default clients = [
     industry: 'Automotive',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/719.jpg',
     password: 'gf5SwcZR0_l3boD',
-    birthdate: 2001-12-11T16:16:28.720Z,
-    registeredAt: 2022-07-08T19:38:24.631Z,
+    birthdate: "2001-12-11T16:16:28.720Z",
+    registeredAt: "2022-07-08T19:38:24.631Z",
     stillClient: false
   },
   {
@@ -385,8 +385,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1147.jpg',
     password: '0aDqZrhQeG62UOI',
-    birthdate: 1972-08-23T14:08:01.176Z,
-    registeredAt: 2023-01-25T01:54:54.843Z,
+    birthdate: "1972-08-23T14:08:01.176Z",
+    registeredAt: "2023-01-25T01:54:54.843Z",
     stillClient: true
   },
   {
@@ -400,8 +400,8 @@ export default clients = [
     industry: 'Garden',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/276.jpg',
     password: 'aWS9Lvk8gC8U1K8',
-    birthdate: 1972-01-12T19:02:13.259Z,
-    registeredAt: 2022-04-14T02:46:06.181Z,
+    birthdate: "1972-01-12T19:02:13.259Z",
+    registeredAt: "2022-04-14T02:46:06.181Z",
     stillClient: false
   },
   {
@@ -415,8 +415,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1066.jpg',
     password: 'EJ8QtjGU7nJvoJm',
-    birthdate: 1975-05-11T12:12:04.268Z,
-    registeredAt: 2022-04-02T10:48:55.149Z,
+    birthdate: "1975-05-11T12:12:04.268Z",
+    registeredAt: "2022-04-02T10:48:55.149Z",
     stillClient: true
   },
   {
@@ -430,8 +430,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/855.jpg',
     password: 'g2LXGX2iSm94JA4',
-    birthdate: 1956-09-06T01:59:46.000Z,
-    registeredAt: 2023-01-26T01:00:59.864Z,
+    birthdate: "1956-09-06T01:59:46.000Z",
+    registeredAt: "2023-01-26T01:00:59.864Z",
     stillClient: true
   },
   {
@@ -445,8 +445,8 @@ export default clients = [
     industry: 'Tools',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1070.jpg',
     password: 'Frf7xvQy_2UAdPJ',
-    birthdate: 1994-05-19T11:32:57.883Z,
-    registeredAt: 2023-01-04T17:37:45.616Z,
+    birthdate: "1994-05-19T11:32:57.883Z",
+    registeredAt: "2023-01-04T17:37:45.616Z",
     stillClient: true
   },
   {
@@ -460,8 +460,8 @@ export default clients = [
     industry: 'Movies',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/561.jpg',
     password: 'vgS72Sujhr8oDCz',
-    birthdate: 1997-10-12T12:19:05.519Z,
-    registeredAt: 2022-04-03T20:51:48.000Z,
+    birthdate: "1997-10-12T12:19:05.519Z",
+    registeredAt: "2022-04-03T20:51:48.000Z",
     stillClient: true
   },
   {
@@ -475,8 +475,8 @@ export default clients = [
     industry: 'Grocery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/266.jpg',
     password: 'v1Te2A0MqSZp349',
-    birthdate: 1982-04-29T13:29:33.424Z,
-    registeredAt: 2022-09-01T11:24:19.215Z,
+    birthdate: "1982-04-29T13:29:33.424Z",
+    registeredAt: "2022-09-01T11:24:19.215Z",
     stillClient: true
   },
   {
@@ -490,8 +490,8 @@ export default clients = [
     industry: 'Electronics',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/226.jpg',
     password: 'OjhQzSfjXioF_DV',
-    birthdate: 1946-10-09T23:09:17.975Z,
-    registeredAt: 2022-10-22T07:10:41.228Z,
+    birthdate: "1946-10-09T23:09:17.975Z",
+    registeredAt: "2022-10-22T07:10:41.228Z",
     stillClient: true
   },
   {
@@ -505,8 +505,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg',
     password: '71XufERVt_Antyx',
-    birthdate: 1980-02-14T18:03:48.374Z,
-    registeredAt: 2022-10-28T16:42:52.794Z,
+    birthdate: "1980-02-14T18:03:48.374Z",
+    registeredAt: "2022-10-28T16:42:52.794Z",
     stillClient: false
   },
   {
@@ -520,8 +520,8 @@ export default clients = [
     industry: 'Jewelery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/538.jpg',
     password: 'rru2SJISBfxeHsa',
-    birthdate: 1951-11-19T09:02:28.047Z,
-    registeredAt: 2022-11-13T00:01:29.173Z,
+    birthdate: "1951-11-19T09:02:28.047Z",
+    registeredAt: "2022-11-13T00:01:29.173Z",
     stillClient: false
   },
   {
@@ -535,8 +535,8 @@ export default clients = [
     industry: 'Grocery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/515.jpg',
     password: 'isjQzTl8eSuUs0L',
-    birthdate: 1997-09-23T00:37:13.285Z,
-    registeredAt: 2023-01-23T09:30:50.049Z,
+    birthdate: "1997-09-23T00:37:13.285Z",
+    registeredAt: "2023-01-23T09:30:50.049Z",
     stillClient: false
   },
   {
@@ -550,8 +550,8 @@ export default clients = [
     industry: 'Health',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/587.jpg',
     password: 'qaq4mkPgq5WxHqB',
-    birthdate: 1980-11-18T14:18:04.450Z,
-    registeredAt: 2022-02-02T00:32:17.177Z,
+    birthdate: "1980-11-18T14:18:04.450Z",
+    registeredAt: "2022-02-02T00:32:17.177Z",
     stillClient: true
   },
   {
@@ -565,8 +565,8 @@ export default clients = [
     industry: 'Shoes',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/668.jpg',
     password: 'eXG4XYCg2gRn1qA',
-    birthdate: 1969-03-31T15:02:02.720Z,
-    registeredAt: 2022-03-17T02:39:53.856Z,
+    birthdate: "1969-03-31T15:02:02.720Z",
+    registeredAt: "2022-03-17T02:39:53.856Z",
     stillClient: false
   },
   {
@@ -580,8 +580,8 @@ export default clients = [
     industry: 'Tools',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/387.jpg',
     password: 'JAGKnbCVmKedim9',
-    birthdate: 1971-03-03T22:12:37.745Z,
-    registeredAt: 2022-05-09T00:10:58.936Z,
+    birthdate: "1971-03-03T22:12:37.745Z",
+    registeredAt: "2022-05-09T00:10:58.936Z",
     stillClient: true
   },
   {
@@ -595,8 +595,8 @@ export default clients = [
     industry: 'Automotive',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/160.jpg',
     password: 'snWfp_P10TyqXzv',
-    birthdate: 1982-12-23T21:11:16.198Z,
-    registeredAt: 2022-12-02T10:31:34.935Z,
+    birthdate: "1982-12-23T21:11:16.198Z",
+    registeredAt: "2022-12-02T10:31:34.935Z",
     stillClient: true
   },
   {
@@ -610,8 +610,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/163.jpg',
     password: 'bhu9tgfGEu7WB8p',
-    birthdate: 1957-11-21T23:03:06.337Z,
-    registeredAt: 2022-10-29T02:08:35.158Z,
+    birthdate: "1957-11-21T23:03:06.337Z",
+    registeredAt: "2022-10-29T02:08:35.158Z",
     stillClient: true
   },
   {
@@ -625,8 +625,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/150.jpg',
     password: 'vu18IPqCOfWDTEG',
-    birthdate: 2000-03-07T12:56:15.465Z,
-    registeredAt: 2022-08-28T20:05:04.304Z,
+    birthdate: "2000-03-07T12:56:15.465Z",
+    registeredAt: "2022-08-28T20:05:04.304Z",
     stillClient: true
   },
   {
@@ -640,8 +640,8 @@ export default clients = [
     industry: 'Movies',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/732.jpg',
     password: 'FfziVf_abjbjwMe',
-    birthdate: 1981-07-26T09:06:52.611Z,
-    registeredAt: 2022-12-15T17:10:31.977Z,
+    birthdate: "1981-07-26T09:06:52.611Z",
+    registeredAt: "2022-12-15T17:10:31.977Z",
     stillClient: true
   },
   {
@@ -655,8 +655,8 @@ export default clients = [
     industry: 'Baby',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/726.jpg',
     password: 'lcOFh4B24GzgJhm',
-    birthdate: 1981-02-21T04:41:59.877Z,
-    registeredAt: 2023-01-30T04:09:59.130Z,
+    birthdate: "1981-02-21T04:41:59.877Z",
+    registeredAt: "2023-01-30T04:09:59.130Z",
     stillClient: false
   },
   {
@@ -670,8 +670,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/121.jpg',
     password: 'jJIbI2IxsQJnwWb',
-    birthdate: 1944-10-09T13:42:54.065Z,
-    registeredAt: 2022-07-19T16:35:19.726Z,
+    birthdate: "1944-10-09T13:42:54.065Z",
+    registeredAt: "2022-07-19T16:35:19.726Z",
     stillClient: true
   },
   {
@@ -685,8 +685,8 @@ export default clients = [
     industry: 'Computers',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/109.jpg',
     password: 'Cms0d1A8yHYiQWx',
-    birthdate: 1970-07-19T11:19:07.532Z,
-    registeredAt: 2023-01-04T17:19:13.092Z,
+    birthdate: "1970-07-19T11:19:07.532Z",
+    registeredAt: "2023-01-04T17:19:13.092Z",
     stillClient: false
   },
   {
@@ -700,8 +700,8 @@ export default clients = [
     industry: 'Health',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/74.jpg',
     password: 'HxhIjEHzSlTVGGu',
-    birthdate: 2001-03-26T06:23:21.958Z,
-    registeredAt: 2023-01-28T18:23:13.123Z,
+    birthdate: "2001-03-26T06:23:21.958Z",
+    registeredAt: "2023-01-28T18:23:13.123Z",
     stillClient: false
   },
   {
@@ -715,8 +715,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/371.jpg',
     password: 'BWMCUNVa455KzYg',
-    birthdate: 2003-03-19T11:54:57.168Z,
-    registeredAt: 2022-06-22T07:35:20.434Z,
+    birthdate: "2003-03-19T11:54:57.168Z",
+    registeredAt: "2022-06-22T07:35:20.434Z",
     stillClient: true
   },
   {
@@ -730,8 +730,8 @@ export default clients = [
     industry: 'Baby',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/571.jpg',
     password: 'WgM0VT1JxI2Osda',
-    birthdate: 1952-05-27T08:40:28.493Z,
-    registeredAt: 2022-05-15T07:54:29.832Z,
+    birthdate: "1952-05-27T08:40:28.493Z",
+    registeredAt: "2022-05-15T07:54:29.832Z",
     stillClient: false
   },
   {
@@ -745,8 +745,8 @@ export default clients = [
     industry: 'Toys',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/830.jpg',
     password: 'RuxFvty1hmg64jR',
-    birthdate: 1988-09-04T17:13:37.154Z,
-    registeredAt: 2022-11-21T06:18:03.263Z,
+    birthdate: "1988-09-04T17:13:37.154Z",
+    registeredAt: "2022-11-21T06:18:03.263Z",
     stillClient: false
   },
   {
@@ -760,8 +760,8 @@ export default clients = [
     industry: 'Clothing',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/110.jpg',
     password: 'pD9rqG20lrDGZ7C',
-    birthdate: 1978-06-29T00:06:08.155Z,
-    registeredAt: 2023-01-17T12:28:11.843Z,
+    birthdate: "1978-06-29T00:06:08.155Z",
+    registeredAt: "2023-01-17T12:28:11.843Z",
     stillClient: true
   },
   {
@@ -775,8 +775,8 @@ export default clients = [
     industry: 'Grocery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1208.jpg',
     password: '6ahVX2uBi9kqdpV',
-    birthdate: 1964-04-07T16:55:31.008Z,
-    registeredAt: 2022-07-27T21:51:24.303Z,
+    birthdate: "1964-04-07T16:55:31.008Z",
+    registeredAt: "2022-07-27T21:51:24.303Z",
     stillClient: false
   },
   {
@@ -790,8 +790,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/43.jpg',
     password: '5JY_zGH270DoGsy',
-    birthdate: 1953-09-22T17:53:21.679Z,
-    registeredAt: 2022-04-04T09:09:52.985Z,
+    birthdate: "1953-09-22T17:53:21.679Z",
+    registeredAt: "2022-04-04T09:09:52.985Z",
     stillClient: false
   },
   {
@@ -805,8 +805,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/134.jpg',
     password: 'nNIQKHP2tmzMj50',
-    birthdate: 1968-11-26T20:08:57.980Z,
-    registeredAt: 2023-01-25T02:17:57.341Z,
+    birthdate: "1968-11-26T20:08:57.980Z",
+    registeredAt: "2023-01-25T02:17:57.341Z",
     stillClient: false
   },
   {
@@ -820,8 +820,8 @@ export default clients = [
     industry: 'Clothing',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/886.jpg',
     password: '9ANxE41wzhXzheP',
-    birthdate: 1995-01-26T23:51:17.290Z,
-    registeredAt: 2023-01-13T23:14:06.066Z,
+    birthdate: "1995-01-26T23:51:17.290Z",
+    registeredAt: "2023-01-13T23:14:06.066Z",
     stillClient: false
   },
   {
@@ -835,8 +835,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/62.jpg',
     password: 'GTWcu4URs9h1vwG',
-    birthdate: 1970-09-24T07:31:53.510Z,
-    registeredAt: 2022-08-05T20:48:31.297Z,
+    birthdate: "1970-09-24T07:31:53.510Z",
+    registeredAt: "2022-08-05T20:48:31.297Z",
     stillClient: false
   },
   {
@@ -850,8 +850,8 @@ export default clients = [
     industry: 'Automotive',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/399.jpg',
     password: 'AsiM41EEPAmRjLZ',
-    birthdate: 1986-06-19T10:28:37.634Z,
-    registeredAt: 2022-07-25T10:24:03.988Z,
+    birthdate: "1986-06-19T10:28:37.634Z",
+    registeredAt: "2022-07-25T10:24:03.988Z",
     stillClient: false
   },
   {
@@ -865,8 +865,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1099.jpg',
     password: 'LOPDq4vs2cW2_MK',
-    birthdate: 1965-04-24T02:24:30.351Z,
-    registeredAt: 2022-11-06T02:41:58.375Z,
+    birthdate: "1965-04-24T02:24:30.351Z",
+    registeredAt: "2022-11-06T02:41:58.375Z",
     stillClient: true
   },
   {
@@ -880,8 +880,8 @@ export default clients = [
     industry: 'Electronics',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1172.jpg',
     password: 'Ws2sPyNPEXTd1FD',
-    birthdate: 1982-06-05T09:42:08.927Z,
-    registeredAt: 2022-09-06T03:15:57.691Z,
+    birthdate: "1982-06-05T09:42:08.927Z",
+    registeredAt: "2022-09-06T03:15:57.691Z",
     stillClient: true
   },
   {
@@ -895,8 +895,8 @@ export default clients = [
     industry: 'Grocery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/533.jpg',
     password: '2iLqvfgxhPgP6s3',
-    birthdate: 1950-03-25T07:39:25.753Z,
-    registeredAt: 2022-07-27T01:59:54.933Z,
+    birthdate: "1950-03-25T07:39:25.753Z",
+    registeredAt: "2022-07-27T01:59:54.933Z",
     stillClient: false
   },
   {
@@ -910,8 +910,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/601.jpg',
     password: 'n0OzTOuMTZhNgPN',
-    birthdate: 1959-01-01T07:54:27.153Z,
-    registeredAt: 2022-10-10T13:05:30.786Z,
+    birthdate: "1959-01-01T07:54:27.153Z",
+    registeredAt: "2022-10-10T13:05:30.786Z",
     stillClient: true
   },
   {
@@ -925,8 +925,8 @@ export default clients = [
     industry: 'Shoes',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/371.jpg',
     password: '701W979y_fMLUsF',
-    birthdate: 1984-12-21T00:26:30.262Z,
-    registeredAt: 2022-06-17T03:17:04.604Z,
+    birthdate: "1984-12-21T00:26:30.262Z",
+    registeredAt: "2022-06-17T03:17:04.604Z",
     stillClient: false
   },
   {
@@ -940,8 +940,8 @@ export default clients = [
     industry: 'Electronics',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/61.jpg',
     password: 'o1JxIR0Lkq7rPkr',
-    birthdate: 1987-07-03T13:00:52.660Z,
-    registeredAt: 2022-04-15T12:48:57.426Z,
+    birthdate: "1987-07-03T13:00:52.660Z",
+    registeredAt: "2022-04-15T12:48:57.426Z",
     stillClient: false
   },
   {
@@ -955,8 +955,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/927.jpg',
     password: '6fjwHPRyBI2dhyD',
-    birthdate: 1985-07-14T18:54:27.022Z,
-    registeredAt: 2022-11-28T01:30:29.173Z,
+    birthdate: "1985-07-14T18:54:27.022Z",
+    registeredAt: "2022-11-28T01:30:29.173Z",
     stillClient: false
   },
   {
@@ -970,8 +970,8 @@ export default clients = [
     industry: 'Electronics',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/921.jpg',
     password: 'g0QLxIk0JdV_LsN',
-    birthdate: 1999-05-02T09:34:36.982Z,
-    registeredAt: 2022-11-13T01:59:07.174Z,
+    birthdate: "1999-05-02T09:34:36.982Z",
+    registeredAt: "2022-11-13T01:59:07.174Z",
     stillClient: false
   },
   {
@@ -985,8 +985,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/922.jpg',
     password: 'FoGdPNDEHmuvqwv',
-    birthdate: 1970-09-05T13:13:57.219Z,
-    registeredAt: 2022-03-31T13:27:26.738Z,
+    birthdate: "1970-09-05T13:13:57.219Z",
+    registeredAt: "2022-03-31T13:27:26.738Z",
     stillClient: true
   },
   {
@@ -1000,8 +1000,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/464.jpg',
     password: 'VVS_dVXsVTFlH0q',
-    birthdate: 2001-08-17T19:14:02.115Z,
-    registeredAt: 2022-09-12T05:28:20.931Z,
+    birthdate: "2001-08-17T19:14:02.115Z",
+    registeredAt: "2022-09-12T05:28:20.931Z",
     stillClient: false
   },
   {
@@ -1015,8 +1015,8 @@ export default clients = [
     industry: 'Tools',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1150.jpg',
     password: 'DfNH92awulmxxbz',
-    birthdate: 1944-12-08T13:07:01.974Z,
-    registeredAt: 2022-11-30T15:08:34.907Z,
+    birthdate: "1944-12-08T13:07:01.974Z",
+    registeredAt: "2022-11-30T15:08:34.907Z",
     stillClient: true
   },
   {
@@ -1030,8 +1030,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1114.jpg',
     password: 'ofOAPlAsachOdhL',
-    birthdate: 1990-01-27T01:36:32.860Z,
-    registeredAt: 2022-08-08T23:45:24.068Z,
+    birthdate: "1990-01-27T01:36:32.860Z",
+    registeredAt: "2022-08-08T23:45:24.068Z",
     stillClient: true
   },
   {
@@ -1045,8 +1045,8 @@ export default clients = [
     industry: 'Books',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/707.jpg',
     password: 'kM2oT5cMPK6XpC8',
-    birthdate: 1975-09-16T16:06:43.600Z,
-    registeredAt: 2022-07-07T05:06:03.340Z,
+    birthdate: "1975-09-16T16:06:43.600Z",
+    registeredAt: "2022-07-07T05:06:03.340Z",
     stillClient: true
   },
   {
@@ -1060,8 +1060,8 @@ export default clients = [
     industry: 'Home',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1061.jpg',
     password: 'C9WzlbFeRVhPnM4',
-    birthdate: 2001-04-03T02:32:06.774Z,
-    registeredAt: 2022-05-25T23:07:09.930Z,
+    birthdate: "2001-04-03T02:32:06.774Z",
+    registeredAt: "2022-05-25T23:07:09.930Z",
     stillClient: true
   },
   {
@@ -1075,8 +1075,8 @@ export default clients = [
     industry: 'Garden',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/537.jpg',
     password: 'R92SCocaM7nMZzc',
-    birthdate: 1951-08-10T16:43:14.370Z,
-    registeredAt: 2022-07-02T10:30:53.209Z,
+    birthdate: "1951-08-10T16:43:14.370Z",
+    registeredAt: "2022-07-02T10:30:53.209Z",
     stillClient: false
   },
   {
@@ -1090,8 +1090,8 @@ export default clients = [
     industry: 'Shoes',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1159.jpg',
     password: 'VhnrmATlHoyptKG',
-    birthdate: 1974-02-01T23:16:11.904Z,
-    registeredAt: 2022-05-28T12:58:01.484Z,
+    birthdate: "1974-02-01T23:16:11.904Z",
+    registeredAt: "2022-05-28T12:58:01.484Z",
     stillClient: true
   },
   {
@@ -1105,8 +1105,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1128.jpg',
     password: '_feRXEvqcMd0zgo',
-    birthdate: 1947-05-03T00:04:06.159Z,
-    registeredAt: 2022-04-24T23:52:14.704Z,
+    birthdate: "1947-05-03T00:04:06.159Z",
+    registeredAt: "2022-04-24T23:52:14.704Z",
     stillClient: false
   },
   {
@@ -1120,8 +1120,8 @@ export default clients = [
     industry: 'Baby',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/509.jpg',
     password: 'BwBiuuqFQxmpXdW',
-    birthdate: 1960-03-07T21:38:16.045Z,
-    registeredAt: 2022-05-29T14:34:46.847Z,
+    birthdate: "1960-03-07T21:38:16.045Z",
+    registeredAt: "2022-05-29T14:34:46.847Z",
     stillClient: false
   },
   {
@@ -1135,8 +1135,8 @@ export default clients = [
     industry: 'Industrial',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1143.jpg',
     password: 'BAfbArw6QHKQ7Fq',
-    birthdate: 1984-07-18T09:28:38.103Z,
-    registeredAt: 2022-03-22T22:24:36.317Z,
+    birthdate: "1984-07-18T09:28:38.103Z",
+    registeredAt: "2022-03-22T22:24:36.317Z",
     stillClient: true
   },
   {
@@ -1150,8 +1150,8 @@ export default clients = [
     industry: 'Clothing',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/576.jpg',
     password: 'aEH4lZb6U7aDn2Q',
-    birthdate: 1979-03-17T23:57:38.538Z,
-    registeredAt: 2022-08-11T23:06:40.776Z,
+    birthdate: "1979-03-17T23:57:38.538Z",
+    registeredAt: "2022-08-11T23:06:40.776Z",
     stillClient: true
   },
   {
@@ -1165,8 +1165,8 @@ export default clients = [
     industry: 'Baby',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1050.jpg',
     password: 'BANxxghmt5TGdoz',
-    birthdate: 1997-07-12T23:17:26.146Z,
-    registeredAt: 2022-05-29T17:38:08.288Z,
+    birthdate: "1997-07-12T23:17:26.146Z",
+    registeredAt: "2022-05-29T17:38:08.288Z",
     stillClient: false
   },
   {
@@ -1180,8 +1180,8 @@ export default clients = [
     industry: 'Tools',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/80.jpg',
     password: 'Yv8QCf58K2i_3jV',
-    birthdate: 1944-06-14T18:35:09.818Z,
-    registeredAt: 2022-05-22T23:31:22.715Z,
+    birthdate: "1944-06-14T18:35:09.818Z",
+    registeredAt: "2022-05-22T23:31:22.715Z",
     stillClient: true
   },
   {
@@ -1195,8 +1195,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/616.jpg',
     password: '6rb_cTn8oihaa54',
-    birthdate: 2002-05-21T14:51:20.613Z,
-    registeredAt: 2022-04-16T22:14:37.236Z,
+    birthdate: "2002-05-21T14:51:20.613Z",
+    registeredAt: "2022-04-16T22:14:37.236Z",
     stillClient: false
   },
   {
@@ -1210,8 +1210,8 @@ export default clients = [
     industry: 'Jewelery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1095.jpg',
     password: 'VrlzvhnD7m1wVyp',
-    birthdate: 1963-04-19T00:06:54.749Z,
-    registeredAt: 2022-10-05T04:51:06.101Z,
+    birthdate: "1963-04-19T00:06:54.749Z",
+    registeredAt: "2022-10-05T04:51:06.101Z",
     stillClient: true
   },
   {
@@ -1225,8 +1225,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1156.jpg',
     password: 'I15RCBQOh10r2NT',
-    birthdate: 1996-09-17T03:53:43.702Z,
-    registeredAt: 2022-06-05T13:33:24.462Z,
+    birthdate: "1996-09-17T03:53:43.702Z",
+    registeredAt: "2022-06-05T13:33:24.462Z",
     stillClient: false
   },
   {
@@ -1240,8 +1240,8 @@ export default clients = [
     industry: 'Automotive',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/495.jpg',
     password: 'a78pUSa1ZoFhvAo',
-    birthdate: 1973-05-15T11:17:21.076Z,
-    registeredAt: 2022-03-27T00:20:04.847Z,
+    birthdate: "1973-05-15T11:17:21.076Z",
+    registeredAt: "2022-03-27T00:20:04.847Z",
     stillClient: false
   },
   {
@@ -1255,8 +1255,8 @@ export default clients = [
     industry: 'Grocery',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/166.jpg',
     password: 'XnG77HYlRvcwltP',
-    birthdate: 1988-06-05T18:39:56.761Z,
-    registeredAt: 2022-09-04T04:15:43.371Z,
+    birthdate: "1988-06-05T18:39:56.761Z",
+    registeredAt: "2022-09-04T04:15:43.371Z",
     stillClient: true
   },
   {
@@ -1270,8 +1270,8 @@ export default clients = [
     industry: 'Health',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/772.jpg',
     password: 'aHehK60_g5WOisK',
-    birthdate: 1965-06-03T23:26:37.708Z,
-    registeredAt: 2022-09-30T11:23:39.248Z,
+    birthdate: "1965-06-03T23:26:37.708Z",
+    registeredAt: "2022-09-30T11:23:39.248Z",
     stillClient: false
   },
   {
@@ -1285,8 +1285,8 @@ export default clients = [
     industry: 'Tools',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/721.jpg',
     password: 'z_Kd_gbOJvUr_ev',
-    birthdate: 1965-12-29T20:42:40.566Z,
-    registeredAt: 2022-06-01T23:43:47.539Z,
+    birthdate: "1965-12-29T20:42:40.566Z",
+    registeredAt: "2022-06-01T23:43:47.539Z",
     stillClient: true
   },
   {
@@ -1300,8 +1300,8 @@ export default clients = [
     industry: 'Clothing',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/141.jpg',
     password: 'DrKJfxHxKDTTwRb',
-    birthdate: 1976-07-26T03:44:16.187Z,
-    registeredAt: 2022-05-24T23:29:05.578Z,
+    birthdate: "1976-07-26T03:44:16.187Z",
+    registeredAt: "2022-05-24T23:29:05.578Z",
     stillClient: true
   },
   {
@@ -1315,8 +1315,8 @@ export default clients = [
     industry: 'Games',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/802.jpg',
     password: 'HfkF98jiBsCzyjc',
-    birthdate: 1964-09-18T14:29:10.556Z,
-    registeredAt: 2022-05-10T06:39:36.724Z,
+    birthdate: "1964-09-18T14:29:10.556Z",
+    registeredAt: "2022-05-10T06:39:36.724Z",
     stillClient: true
   },
   {
@@ -1330,8 +1330,8 @@ export default clients = [
     industry: 'Industrial',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/588.jpg',
     password: '_2N4xaxoiZwYv0r',
-    birthdate: 1954-04-03T22:34:50.172Z,
-    registeredAt: 2022-02-25T23:42:12.732Z,
+    birthdate: "1954-04-03T22:34:50.172Z",
+    registeredAt: "2022-02-25T23:42:12.732Z",
     stillClient: true
   },
   {
@@ -1345,8 +1345,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg',
     password: 'rRvGJbqwZ0Uje3O',
-    birthdate: 1977-03-02T16:18:03.454Z,
-    registeredAt: 2022-05-17T06:03:23.754Z,
+    birthdate: "1977-03-02T16:18:03.454Z",
+    registeredAt: "2022-05-17T06:03:23.754Z",
     stillClient: false
   },
   {
@@ -1360,8 +1360,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/930.jpg',
     password: 'LaXVtdi2e1mT9rc',
-    birthdate: 1955-02-21T09:16:37.898Z,
-    registeredAt: 2023-01-01T06:17:19.594Z,
+    birthdate: "1955-02-21T09:16:37.898Z",
+    registeredAt: "2023-01-01T06:17:19.594Z",
     stillClient: false
   },
   {
@@ -1375,8 +1375,8 @@ export default clients = [
     industry: 'Toys',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/346.jpg',
     password: 'HFBn8ibegZzdfEm',
-    birthdate: 1977-10-13T11:50:48.643Z,
-    registeredAt: 2022-07-15T08:06:28.869Z,
+    birthdate: "1977-10-13T11:50:48.643Z",
+    registeredAt: "2022-07-15T08:06:28.869Z",
     stillClient: true
   },
   {
@@ -1390,8 +1390,8 @@ export default clients = [
     industry: 'Beauty',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/905.jpg',
     password: 'DtJ4XLLZNnq7qH8',
-    birthdate: 1997-05-08T19:37:51.639Z,
-    registeredAt: 2022-07-07T03:17:58.406Z,
+    birthdate: "1997-05-08T19:37:51.639Z",
+    registeredAt: "2022-07-07T03:17:58.406Z",
     stillClient: true
   },
   {
@@ -1405,8 +1405,8 @@ export default clients = [
     industry: 'Automotive',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/102.jpg',
     password: 'rCVHS3GmG42AQTO',
-    birthdate: 1976-07-16T10:24:18.149Z,
-    registeredAt: 2022-05-31T21:07:10.903Z,
+    birthdate: "1976-07-16T10:24:18.149Z",
+    registeredAt: "2022-05-31T21:07:10.903Z",
     stillClient: true
   },
   {
@@ -1420,8 +1420,8 @@ export default clients = [
     industry: 'Tools',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/356.jpg',
     password: 'IqLLNXa8xxbIZl7',
-    birthdate: 1963-10-31T03:50:50.646Z,
-    registeredAt: 2022-03-01T01:01:05.414Z,
+    birthdate: "1963-10-31T03:50:50.646Z",
+    registeredAt: "2022-03-01T01:01:05.414Z",
     stillClient: false
   },
   {
@@ -1435,8 +1435,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/48.jpg',
     password: 'sSbNOf9hvKtuQnS',
-    birthdate: 1970-07-27T14:24:01.747Z,
-    registeredAt: 2022-05-31T19:58:24.406Z,
+    birthdate: "1970-07-27T14:24:01.747Z",
+    registeredAt: "2022-05-31T19:58:24.406Z",
     stillClient: false
   },
   {
@@ -1450,8 +1450,8 @@ export default clients = [
     industry: 'Kids',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/910.jpg',
     password: 'RTRdlIBzdzAG032',
-    birthdate: 1967-04-08T06:33:04.459Z,
-    registeredAt: 2022-08-18T17:31:40.268Z,
+    birthdate: "1967-04-08T06:33:04.459Z",
+    registeredAt: "2022-08-18T17:31:40.268Z",
     stillClient: true
   },
   {
@@ -1465,8 +1465,8 @@ export default clients = [
     industry: 'Outdoors',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/968.jpg',
     password: 'AnTD7R_tsTAJf7M',
-    birthdate: 1990-04-23T15:28:09.086Z,
-    registeredAt: 2022-10-16T18:27:53.812Z,
+    birthdate: "1990-04-23T15:28:09.086Z",
+    registeredAt: "2022-10-16T18:27:53.812Z",
     stillClient: false
   },
   {
@@ -1480,8 +1480,8 @@ export default clients = [
     industry: 'Music',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/952.jpg',
     password: 'xZd87eAFHSQ7paX',
-    birthdate: 1974-07-09T14:26:53.973Z,
-    registeredAt: 2022-12-04T01:24:09.970Z,
+    birthdate: "1974-07-09T14:26:53.973Z",
+    registeredAt: "2022-12-04T01:24:09.970Z",
     stillClient: true
   },
   {
@@ -1495,8 +1495,8 @@ export default clients = [
     industry: 'Baby',
     avatar: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1060.jpg',
     password: 'Rc1ihYm4Bw9iJIu',
-    birthdate: 1981-03-07T01:45:00.475Z,
-    registeredAt: 2022-05-13T09:01:11.267Z,
+    birthdate: "1981-03-07T01:45:00.475Z",
+    registeredAt: "2022-05-13T09:01:11.267Z",
     stillClient: false
   }
 ]
