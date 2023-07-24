@@ -8,12 +8,14 @@ const OldClient = require('./models/OldClient')
 const data = require('./data')
 
 const resetDBAsync = async function () {
+    console.log(`New Clients: ${await NewClient.countDocuments()}`.blue.inverse)
+    console.log(`Old Clients: ${await OldClient.countDocuments()}`.blue.inverse)
+    
     const asyncDeleteNewClients = NewClient.deleteMany({});
     const asyncDeleteOldClients = OldClient.deleteMany({});
 
     let results = await Promise.all([asyncDeleteNewClients,asyncDeleteOldClients])
-    console.log('Deleted All Clients'.red.inverse)
-    console.log(results)
+    console.log('Deleted All Clients Async'.red.inverse)
 }
 
 const seedAsync = (async function () {
@@ -24,12 +26,12 @@ const seedAsync = (async function () {
         NewClient.create(data.clients),
         OldClient.create(data.clients)
     ])
+    
+    let end = Date.now();
+
     console.log(`New Clients: ${results[0].length}`.blue.inverse)
     console.log(`Old Clients: ${results[1].length}`.blue.inverse)
-    console.log(`Inserted All Clients - Async`.green.inverse)
-
-    let end = Date.now();
-    console.log(`Execution time: ${end - start} ms`)
+    console.log(`Inserted All Clients - Async --- Execution time: ${end - start} ms`.green.inverse)
 
     // Delete old/new and remove from new/old
     start = Date.now();
@@ -42,16 +44,18 @@ const seedAsync = (async function () {
     
     console.log(`New Clients: ${await NewClient.countDocuments()}`.blue.inverse)
     console.log(`Old Clients: ${await OldClient.countDocuments()}`.blue.inverse)
-    console.log(`Removed Old from New and New from Old - Async`.blue.inverse)
-    console.log(`Execution time: ${end - start} ms`)
+    console.log(`Removed Old from New and New from Old - Async --- Execution time: ${end - start} ms`.blue.inverse)
     
     process.exit()
 });
 
 const resetDBSeq = async function () {
+    console.log(`New Clients: ${await NewClient.countDocuments()}`.blue.inverse)
+    console.log(`Old Clients: ${await OldClient.countDocuments()}`.blue.inverse)
+    
     await NewClient.deleteMany({})
     await OldClient.deleteMany({})
-    console.log('Deleted All Clients'.red.inverse)
+    console.log('Deleted All Clients Seq'.red.inverse)
 }
 
 const seedSeq = async function () {
@@ -65,8 +69,7 @@ const seedSeq = async function () {
     
     console.log(`New Clients: ${await NewClient.countDocuments()}`.blue.inverse)
     console.log(`Old Clients: ${await OldClient.countDocuments()}`.blue.inverse)
-    console.log(`Inserted All Clients - Seq`.green.inverse)
-    console.log(`Execution time: ${end - start} ms`)
+    console.log(`Inserted All Clients - Seq --- Execution time: ${end - start} ms`.green.inverse)
     
     // Delete old/new and remove from new/old
     start = Date.now();
@@ -78,8 +81,7 @@ const seedSeq = async function () {
     
     console.log(`New Clients: ${await NewClient.countDocuments()}`.blue.inverse)
     console.log(`Old Clients: ${await OldClient.countDocuments()}`.blue.inverse)
-    console.log(`Removed Old from New and New from Old - Seq`.blue.inverse)
-    console.log(`Execution time: ${end - start} ms`)
+    console.log(`Removed Old from New and New from Old - Seq --- Execution time: ${end - start} ms`.blue.inverse)
     
     process.exit()
 }
