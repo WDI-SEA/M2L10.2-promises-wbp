@@ -47,7 +47,7 @@ const dbSeed = async () => {
             const oldClient = await OldClient.create(client);
             // console.log(newClient);
         }
-        console.log(await NewClient.find({}));
+        // console.log(await NewClient.find({}));
         // console.log(clients[0]);
         // console.log(newClient)
     } catch (err) {
