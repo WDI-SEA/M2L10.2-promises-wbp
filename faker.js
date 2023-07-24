@@ -21,10 +21,8 @@ const createRandomClient = () => {
 	};
 }
 
-for(let i = 0; i < 100; i++){
+for(let i = 0; i < 300; i++){
 	clients.push(createRandomClient());
 }
 
-console.log(clients);
-
-// console.log(new Date(clients[0].birthdate));
+console.log(console.log(JSON.stringify(clients, null, 1)));
