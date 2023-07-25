@@ -15,14 +15,14 @@ const createRandomClient = () => {
 		industry: faker.commerce.department(),
 		avatar: faker.image.avatar(),
 		password: faker.internet.password(),
-		birthdate: faker.date.birthdate(),
-		registeredAt: faker.date.past(),
+		birthdate: faker.date.birthdate().toISOString(),
+		registeredAt: faker.date.past().toISOString(),
 		stillClient: faker.datatype.boolean()
 	};
 }
 
-for(let i = 0; i < 100; i++){
+for(let i = 0; i < 300; i++){
 	clients.push(createRandomClient());
 }
 
-console.log(clients);
+console.log(console.log(JSON.stringify(clients, null, 1)));
