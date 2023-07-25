@@ -15,8 +15,8 @@ const createRandomClient = () => {
 		industry: faker.commerce.department(),
 		avatar: faker.image.avatar(),
 		password: faker.internet.password(),
-		birthdate: faker.date.birthdate(),
-		registeredAt: faker.date.past(),
+		birthdate: faker.date.birthdate().toISOString(),
+		registeredAt: faker.date.past().toISOString(),
 		stillClient: faker.datatype.boolean()
 	};
 }
