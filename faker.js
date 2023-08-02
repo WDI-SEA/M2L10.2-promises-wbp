@@ -1,4 +1,5 @@
 import { faker } from '@faker-js/faker';
+// const faker = require
 // import { faker } from '@faker-js/faker/locale/de';
 
 const clients = [];
